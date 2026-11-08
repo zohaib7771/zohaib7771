@@ -53,10 +53,26 @@ A Three.js / WebGL engine purpose-built for interactive 3D ad experiences and we
 LLM-orchestrated workflow combining Claude (engineering & architecture), ChatGPT (ideation & copy), and Gemini (research) — automating ~95% of a traditional 3-person ad-production team's daily work. Shipping velocity equivalent to a 3–4 person team, run by one technical artist + AI.
 **Stack:** Claude · ChatGPT · Gemini · Playable Engine · WebThree.js
 
-## Games & projects I've shipped
+## Games I've shipped
 
-**Mindstorm Studios — mobile games & playable ads**
-Sugarcane Inc. Empire Tycoon · Mining Tycoon 3D · Dig Tycoon · Oil Mining 3D (Petrol Factory) · Juice Factory (Fruit Farm 3D) · Wood Factory (Lumber Tycoon) · My Cooking Simulator 3D · Deep Rock: Survival · Thread Master: ASMR Embroidery · Perfect Miner · Goods Packaging 3D · Hunt & Serve · The Miner: Gold Game · Catch The Hen
+**Sablo Studio — mobile games (2020 – 2025)** · [full dev page](https://play.google.com/store/apps/developer?id=Sablo+Studio)
+
+- [Sugarcane Inc. Empire Tycoon](https://play.google.com/store/apps/details?id=com.ss.sugarcane.inc.empire.tycoon)
+- [Mining Tycoon 3D](https://play.google.com/store/apps/details?id=com.sablostudio.mining.tycoon.idle.game)
+- [Dig Tycoon – Idle Game 3D](https://play.google.com/store/apps/details?id=com.sablostudio.dig.tycoon.idle.game)
+- [Oil Mining 3D – Petrol Factory](https://play.google.com/store/apps/details?id=com.sablostudio.oil.mining)
+- [Juice Factory – Fruit Farm 3D](https://play.google.com/store/apps/details?id=com.ss.juice.factory.fruit.farm3d)
+- [Wood Factory – Lumber Tycoon](https://play.google.com/store/apps/details?id=com.ss.timberfactory.lumber.inc)
+- [My Cooking Simulator 3D](https://play.google.com/store/apps/details?id=com.ss.my.cooking.simulation)
+- [Thread Master: ASMR Embroidery](https://play.google.com/store/apps/details?id=com.thread.sewing)
+- [Perfect Miner](https://play.google.com/store/apps/details?id=com.perfect.miner)
+- [Goods Packaging 3D](https://play.google.com/store/apps/details?id=com.packing.merge.prototype)
+- [The Miner – Gold Game](https://play.google.com/store/apps/details?id=com.sablostudio.the.miners.merger)
+- [Catch The Hen](https://play.google.com/store/apps/details?id=com.ss.catchthehen)
+- [Hunt & Serve](https://play.google.com/store/apps/details?id=com.ss.hunt.serve.idlegame)
+- Deep Rock: Survival *(link pending — couldn't locate exact store page)*
+
+**Mindstorm Studios (2025 – now)** — playable ads & video ads shipped across AppLovin, Mintegral, Facebook, Google, Unity Ads, ironSource, Vungle, Chartboost. See [Flagship projects](#flagship-projects) above.
 
 ## Experience
 
