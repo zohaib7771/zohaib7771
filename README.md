@@ -1,4 +1,6 @@
-<img align="right" width="140" src="assets/photo.png" alt="Zohaib Hassan">
+<table>
+<tr>
+<td width="78%" valign="top">
 
 # Zohaib Hassan
 
@@ -6,9 +8,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zohaib--hassan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-hassan-b378a9ab/)
 [![Behance](https://img.shields.io/badge/Behance-zohaaibhassan-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/zohaaibhassan)
-[![Email](https://img.shields.io/badge/Email-zohaib7771%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zohaib7771@gmail.com)
 
-<br clear="right">
+</td>
+<td width="22%" valign="top" align="right">
+<img src="assets/photo.png" alt="Zohaib Hassan" width="140">
+</td>
+</tr>
+</table>
 
 ## About
 
@@ -78,4 +84,4 @@ Sugarcane Inc. Empire Tycoon · Mining Tycoon 3D · Dig Tycoon · Oil Mining 3D 
 ---
 
 **Open to remote opportunities** with international studios, ad-tech companies, and AI-forward teams.
-Reach me at **zohaib7771@gmail.com**.
+Reach me on [LinkedIn](https://www.linkedin.com/in/zohaib-hassan-b378a9ab/).
