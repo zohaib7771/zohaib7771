@@ -53,6 +53,16 @@ A Three.js / WebGL engine purpose-built for interactive 3D ad experiences and we
 LLM-orchestrated workflow combining Claude (engineering & architecture), ChatGPT (ideation & copy), and Gemini (research) — automating ~95% of a traditional 3-person ad-production team's daily work. Shipping velocity equivalent to a 3–4 person team, run by one technical artist + AI.
 **Stack:** Claude · ChatGPT · Gemini · Playable Engine · WebThree.js
 
+## Live products & sites
+
+### [MeshGrab](https://meshgrab.com) &nbsp;·&nbsp; meshgrab.com
+Desktop downloader for saving 3D models from AI generation platforms (Meshy, Tripo3D) so creators avoid paying per-model credits. Batch-downloads up to 100 models at once across GLB, FBX, and OBJ with textures; handles meshopt decompression and format conversion; integrates with Sketchfab and Blender.
+**Stack:** Python · Node.js · Windows desktop
+
+### [Digital Global Studio](https://digitalglobalstudio.netlify.app) &nbsp;·&nbsp; digitalglobalstudio.netlify.app
+Service landing page for my playable-ads and video-ads production — puzzle, casual, match, merge and tycoon genres, 3–5 day turnaround, built with the Playable Engine on Cocos Creator and Unity.
+**Stack:** HTML / CSS / JS static site · Netlify
+
 ## Games I've shipped
 
 **Sablo Studio — mobile games (2020 – 2025)** · [full dev page](https://play.google.com/store/apps/developer?id=Sablo+Studio)
